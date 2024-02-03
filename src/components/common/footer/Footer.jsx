@@ -17,7 +17,7 @@ const Footer = () => {
           <div className='box'>
             <h3>Денсалық</h3>
             <div className='item'>
-              <img src='../images/hero/hero1.jpg' alt='' />
+              <img src='../images/hero/hero1.jpeg' alt='' />
               <p>Қандай қант деңгейінде жаттығуға болады?</p>
             </div>
             <div className='item'>
@@ -32,7 +32,7 @@ const Footer = () => {
               <p>2024 бөлінген дәрі-дәрмектер саны</p>
             </div>
             <div className='item'>
-              <img src='../images/hero/hero1.jpg' alt='' />
+              <img src='../images/hero/hero1.jpeg' alt='' />
               <p>2024-гі өзгерістер</p>
             </div>
           </div>

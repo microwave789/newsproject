@@ -29,7 +29,7 @@ const SinglePage = () => {
               <h1 className='title'>{item.title}</h1>
 
               <div className='author'>
-                <span>by</span>
+                <span></span>
                 <img src={item.authorImg} alt='' />
                 <p> {item.authorName} on</p>
                 <label>{item.time}</label>
@@ -38,7 +38,7 @@ const SinglePage = () => {
               <div className='social'>
                 <div className='socBox'>
                   <i className='fab fa-facebook-f'></i>
-                  <span>SHARE</span>
+                  <span>Бөліс</span>
                 </div>
                 <div className='socBox'>
                   <i className='fab fa-twitter'></i>

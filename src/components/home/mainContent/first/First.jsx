@@ -31,7 +31,7 @@ const First = () => {
   return (
     <>
       <section className='first'>
-        <Heading title='First' />
+        <Heading title='Басты жаңалықтар' />
         <div className='content'>
           <Slider {...settings}>
             {first.map((val) => {

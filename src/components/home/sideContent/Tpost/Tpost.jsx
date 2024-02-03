@@ -7,7 +7,7 @@ const Tpost = () => {
   return (
     <>
       <section className='tpost'>
-        <Heading title='Tiktok post' />
+        <Heading title='Әлеуметтік желілерге қосыл ' />
         {tpost.map((val) => {
           return (
             <div className='box flexSB'>

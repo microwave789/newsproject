@@ -40,7 +40,7 @@ export const hero = [
     {
       id: 2,
       cover: "../images/hero/hero2.jpg",
-      catgeory: "sport",
+      catgeory: "спорт",
       title: "Спортпен айналысу үшін қандағы қант денгейі қандай болу керек?",
       authorName: "alex",
       authorImg: "../images/author.jpg",
@@ -77,7 +77,7 @@ export const hero = [
       cover: "../images/hero/hero3.jpg",
       catgeory: "диабет туралы",
       title: "Диабет туралы ақпарат",
-      authorName: "rina",
+      authorName: "life4every",
       authorImg: "../images/author.jpg",
       time: "22 Mar - 2022",
       desc: [
@@ -111,8 +111,8 @@ export const hero = [
       id: 4,
       cover: "../images/hero/hero4.jpg",
       catgeory: "технологиялар",
-      title: "Emma Watson stands up for Turkish women",
-      authorName: "sunil",
+      title: "2023 диабетпен күрісуге арналған құрылғылар",
+      authorName: "Азамат",
       authorImg: "../images/author.jpg",
       time: "08 Dec - 2022",
       desc: [
@@ -166,7 +166,7 @@ export const hero = [
       id: 3,
       cover: "../images/world/world3.jpg",
       catgeory: "",
-      title: "Mount Etna erupts fashion in nice looking pictures ",
+      title: "Lorem ipsum dollar",
       authorName: "Salman",
       time: "5 Jun - 2022",
     },
@@ -174,7 +174,7 @@ export const hero = [
       id: 4,
       cover: "../images/world/world2.jpg",
       catgeory: "",
-      title: "China asks Canada to add their full plan ",
+      title: "Lorem ipsum dollar",
       authorName: "Salman",
       time: "5 Jun - 2022",
     },
@@ -182,7 +182,7 @@ export const hero = [
       id: 5,
       cover: "../images/world/world2.jpg",
       catgeory: "",
-      title: "Serena secures comeback win against Ivanovic",
+      title: "Lorem ipsum dollar",
       authorName: "Salman",
       time: "5 Jun - 2022",
     },
@@ -192,7 +192,7 @@ export const hero = [
     {
       id: 1,
       catgeory: "хобби",
-      title: "Our Favorite Photos From All Around",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop1.jpg",
@@ -201,7 +201,7 @@ export const hero = [
     {
       id: 2,
       catgeory: "құқықтар",
-      title: "Places To Visit For A Peaceful Holiday",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop2.jpg",
@@ -210,7 +210,7 @@ export const hero = [
     {
       id: 3,
       catgeory: "спорт",
-      title: "Is This The New Boxing Champion?",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop3.jpg",
@@ -219,7 +219,7 @@ export const hero = [
     {
       id: 4,
       catgeory: "спорт",
-      title: "A Detailed Retelling Of Our Trek Through The Dangerous Alps",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop4.jpg",
@@ -228,7 +228,7 @@ export const hero = [
     {
       id: 5,
       catgeory: "денсаулық",
-      title: "Natural Sunlight Boosts Your Immunity",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop5.jpg",
@@ -237,7 +237,7 @@ export const hero = [
     {
       id: 6,
       catgeory: "денсаулық",
-      title: "Health Benefits From Asparagus",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop6.jpg",
@@ -246,7 +246,7 @@ export const hero = [
     {
       id: 7,
       catgeory: "хикаялар",
-      title: "The Valid Fashion Style For This Fall",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop7.jpg",
@@ -255,7 +255,7 @@ export const hero = [
     {
       id: 8,
       catgeory: "хикаялар",
-      title: "Vote For The Top Tracks Of The Month",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop8.jpg",
@@ -264,7 +264,7 @@ export const hero = [
     {
       id: 9,
       catgeory: "хикаялар",
-      title: "Unplugged Gigs To Remember",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop9.jpg",
@@ -273,7 +273,7 @@ export const hero = [
     {
       id: 10,
       catgeory: "диабет туралы",
-      title: "Picks For This Month’s Best Instagram Shots",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop10.jpg",
@@ -282,7 +282,7 @@ export const hero = [
     {
       id: 11,
       catgeory: "диабет туралы",
-      title: "Why Rich People Don’t Invest Much",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop11.jpg",
@@ -291,7 +291,7 @@ export const hero = [
     {
       id: 12,
       catgeory: "технологиялар",
-      title: "Welcoming The Digital Generation",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop12.jpg",
@@ -300,7 +300,7 @@ export const hero = [
     {
       id: 13,
       catgeory: "қызықты әңгімелер",
-      title: "These Teens Are Absolutely Crazy For Beach Soccer",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop13.jpg",
@@ -309,7 +309,7 @@ export const hero = [
     {
       id: 14,
       catgeory: "қызықты әңгімелер",
-      title: "How To Organize The Best Bridal Party Ever",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop14.jpg",
@@ -318,7 +318,7 @@ export const hero = [
     {
       id: 15,
       catgeory: "технологиялар",
-      title: "Social Networks And Social Life",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop15.jpg",
@@ -327,7 +327,7 @@ export const hero = [
     {
       id: 16,
       catgeory: "технологиялар",
-      title: "Gaming Brings Couples Closer Together?",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       comments: 0,
       cover: "../images/first/pop1.jpg",
@@ -339,14 +339,14 @@ export const hero = [
     {
       id: 1,
       catgeory: "құқықтар",
-      title: "We Went Deep Underground For This Amazing Cave Shot",
+      title: "Таңғажайып хикаялар",
       date: "19. February 2022",
       cover: "../images/ppost/pop1.jpg",
     },
     {
       id: 2,
       catgeory: "денсаулық",
-      title: "6 Reasons Why You Shouldn’t Skip Breakfast",
+      title: "Таңғы асты неге уақытылы ішу керек?",
       date: "19. February 2022",
       cover: "../images/ppost/pop2.jpg",
     },
@@ -369,28 +369,28 @@ export const hero = [
     {
       id: 1,
       catgeory: "құқықтар",
-      title: "Mustang Teases With A New Promo",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       cover: "../images/life/life1.jpg",
     },
     {
       id: 2,
       catgeory: "спорт",
-      title: "Surfs Up – Places For Killer Waves",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       cover: "../images/life/life2.jpg",
     },
     {
       id: 3,
       catgeory: "хикаялар",
-      title: "Learn How To Nail Your Favorite Look",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       cover: "../images/life/life3.jpg",
     },
     {
       id: 4,
       catgeory: "құқықтар",
-      title: "Music Playing On R&B Stations",
+      title: "Lorem ipsum dollar",
       date: "19. February 2022",
       cover: "../images/life/life4.jpg",
     },
@@ -398,17 +398,17 @@ export const hero = [
   export const tpost = [
     {
       id: 1,
-      title: "US Promises to give Intel aid to locate the soldiers",
+      title: "Lorem ipsum dollar",
       cover: "../images/tpost/tpost.webp",
     },
     {
       id: 2,
-      title: "Renewable energy dead as industry waits for Policy",
+      title: "Lorem ipsum dollar",
       cover: "../images/tpost/tpost2.jpg",
     },
     {
       id: 3,
-      title: "Mount Etna erupts fashion in nice looking pictures",
+      title: "Lorem ipsum dollar",
       cover: "../images/tpost/tpost3.jpg",
     },
   ]

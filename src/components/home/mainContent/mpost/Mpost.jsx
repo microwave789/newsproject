@@ -18,7 +18,7 @@ const Mpost = () => {
   return (
     <>
       <section className='mpost'>
-        <Heading title='Main posts' />
+        <Heading title='Құқықтар' />
         <div className='content'>
           <Slider {...settings}>
             {first

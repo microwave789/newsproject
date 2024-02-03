@@ -19,29 +19,29 @@ const Side = () => {
   const catgeory = ["world", "travel", "sport", "fun", "health", "fashion", "business", "technology"]
   return (
     <>
-      <Heading title='Stay Connected' />
+      <Heading title='Хабардар болыңыз' />
       <SocialMedia />
 
-      <Heading title='Subscribe' />
+      <Heading title='Бізге жазылыңыз' />
 
       <section className='subscribe'>
-        <h1 className='title'>Subscribe to our New Stories</h1>
+        <h1 className='title'>Жаңа мақаламаларға жазылыңыз</h1>
         <form action=''>
           <input type='email' placeholder='Email Address...' />
           <button>
-            <i className='fa fa-paper-plane'></i> SUBMIT
+            <i className='fa fa-paper-plane'></i> САҚТАП АЛ
           </button>
         </form>
       </section>
 
       <section className='banner'>
-        <img src='./images/sidebar-banner-new.jpg' alt='' />
+        <img src='./images/sidebar-banner-new.png' alt='' width='300px' />
       </section>
 
       <Tpost />
 
       <section className='catgorys'>
-        <Heading title='Catgeorys' />
+        <Heading title='Категориялар' />
         {/*<div className='items'>{allCat}</div>*/}
         {catgeory.map((val) => {
           return (
@@ -53,7 +53,7 @@ const Side = () => {
       </section>
 
       <section className='gallery'>
-        <Heading title='Gallery' />
+        <Heading title='Галлерея' />
         <Slider {...settings}>
           {gallery.map((val) => {
             return (

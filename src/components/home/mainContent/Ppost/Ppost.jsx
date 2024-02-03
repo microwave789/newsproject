@@ -16,7 +16,7 @@ const Ppost = () => {
   return (
     <>
       <section className='popularPost'>
-        <Heading title='Popular Posts' />
+        <Heading title='Тамақтану' />
         <div className='content'>
           <Slider {...settings}>
             {ppost.map((val) => {
