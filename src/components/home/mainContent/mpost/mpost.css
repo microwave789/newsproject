@@ -1,0 +1,25 @@
+.mpost .box {
+  margin-bottom: 30px;
+  margin-left: 2px;
+}
+.mpost .text {
+  padding: 0 30px;
+}
+.mpost .images {
+  width: 320px;
+  height: 220px;
+}
+.mpost img {
+  width: 320px;
+  height: 220px;
+  object-fit: cover;
+}
+.mpost h1 {
+  font-size: 22px;
+}
+@media screen and (max-width: 768px) {
+  .mpost img,
+  .mpost .images {
+    height: 350px;
+  }
+}
